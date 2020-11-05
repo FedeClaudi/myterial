@@ -9,7 +9,7 @@ requirements = [
 ]
 
 setup(
-    name="myterials",
+    name="myterial",
     version="1.0",
     description="Easy acces to material colors hex codes",
     long_description=long_description,
