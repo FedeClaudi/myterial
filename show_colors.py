@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-from myterials.lookup import colors
+from myterial.lookup import colors
 
 
 f, axarr = plt.subplots(ncols=5, nrows=20, figsize=(10, 20))
