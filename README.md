@@ -1,5 +1,5 @@
 # myterial
-Just an easy way to access color hex codes
+Just an easy way to access material colors' hex codes
 
 ### Installation
 ```
