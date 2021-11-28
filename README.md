@@ -12,5 +12,10 @@ pip install myterial
 from myterial import salmon
 ```
 
+To see all colors run `show_colors.py`
+
+<img src='colors_terminal.png' width="1200px"></img>
+
+
 ### Colors:
 <img src='colors.PNG' width="600px"></img>
